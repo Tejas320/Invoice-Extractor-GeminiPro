@@ -10,8 +10,8 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/invoice-extractor-llm-app.git
-    cd invoice-extractor-llm-app
+    gh repo clone Tejas320/Invoice-Extractor-GeminiPro
+    cd Invoice-Extractor-GeminiPro
     ```
 
 2. Create and activate a virtual environment:
