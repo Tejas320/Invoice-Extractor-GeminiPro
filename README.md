@@ -1,14 +1,5 @@
 # Invoice Extractor LLM App Using Gemini Pro
 This project is an Invoice Extractor application that leverages the Gemini Pro language model to extract relevant information from invoices. The application is built using Streamlit.
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 ## Overview
 The Invoice Extractor LLM App is designed to simplify the process of extracting key information from invoice documents. By utilizing the power of Gemini Pro, a state-of-the-art language model, this app provides accurate and efficient data extraction capabilities.
 ## Features
