@@ -10,7 +10,7 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    gh repo clone Tejas320/Invoice-Extractor-GeminiPro
+    git clone https://github.com/Tejas320/Invoice-Extractor-GeminiPro.git
     cd Invoice-Extractor-GeminiPro
     ```
 
