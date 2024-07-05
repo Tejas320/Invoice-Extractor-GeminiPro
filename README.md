@@ -6,6 +6,7 @@ The Invoice Extractor LLM App is designed to simplify the process of extracting 
 ## Features
 - **Automated Invoice Data Extraction**: Extracts key fields such as invoice number, date, total amount, and more.
 - **User-Friendly Interface**: Easy-to-use interface built with Streamlit.
+- **Deployment Ready**: Deployed on Streamlit Cloud for easy access and scalability.
 ## Installation
 To run the app locally, follow these steps:
 
