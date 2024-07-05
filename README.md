@@ -31,6 +31,9 @@ To run the app locally, follow these steps:
     ```
 ## Usage
 Once the app is running, you can upload an invoice document, and the app will extract and display the relevant information.
+![Screenshot (90)](https://github.com/Tejas320/Invoice-Extractor-GeminiPro/assets/73283098/1281f288-6cf7-4a94-b08c-9f6895480a4e)
+
+
 ## Dependencies
 The project relies on the following Python packages:
 - streamlit
