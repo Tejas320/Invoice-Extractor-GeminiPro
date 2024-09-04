@@ -32,7 +32,7 @@ def input_image_details(uploaded_file):
 # Initialize our streamlit app
 st.set_page_config(page_title="MultiLanguage Invoice Extractor")
 st.header("MultiLanguage Invoice Extractor")
-input = st.text_input("Input Prompt*: ", key="input")
+input = st.text_input("Input Prompt: ", key="input")
 uploaded_file = st.file_uploader("Choose an image of the invoice...", type=["jpg", "jpeg", "png"])
 image = ""
 if uploaded_file is not None:
